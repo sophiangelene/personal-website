@@ -1,11 +1,25 @@
 ---
 title: "Personal website"
+about:
+  template: trestles
+  image: pfp.JPG
+  links: 
+    - text: Creative Website
+      href: https://sophiangelene18.wordpress.com/
+    - icon: github
+      text: GitHub
+      href: https://github.com/sophiangelene
+    - text: LinkedIn
+      href: www.linkedin.com/in/sophiangelene18
+    - icon: inbox-fill
+      text: Email
+      href: mailto:sophiangelene@g.ucla.edu
+toc: false
 ---
 
-This is a Quarto website.
+insert intro
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+DOWNLOAD [Resume](/resume.pdf)
 
-```{r}
-1 + 2
-```
+## Education
+insert education

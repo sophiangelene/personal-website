@@ -1,0 +1,12 @@
+---
+title: "Projects"
+toc: true
+---
+
+## Project 1
+[HARMAN International Marketing Strategy](/projects/harman_marketing.qmd)
+
+## Project 2
+
+
+## Project 3
