@@ -10,7 +10,7 @@ about:
       text: GitHub
       href: https://github.com/sophiangelene
     - text: LinkedIn
-      href: www.linkedin.com/in/sophiangelene18
+      href: https://linkedin.com/in/sophiangelene18
     - icon: inbox-fill
       text: Email
       href: mailto:sophiangelene@g.ucla.edu
