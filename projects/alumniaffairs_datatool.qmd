@@ -1,0 +1,14 @@
+---
+title: "UCLA Alumni Affairs Data Tool (NDA)"
+image: images/aa_data.JPEG
+---
+
+**Data Analyst**
+
+UCLA’s Alumni Affairs had long struggled with organizing data and extracting crucial information. In order to ensure utilization of all data in an efficient manner, my team created a self-service data tool to aid in driving their business and making their efforts more impactful. The data was given to us in 5 separate CSV files. I utilized Microsoft Excel to remove duplicates and PowerQuery to merge the datasets. My team started by evaluating many visualization tools, such as Vizzu, Looker Studio, and Flourish. We ultimately decided to implement our project using ArcGIS, specifically the WebExperience feature that allows us to create websites. For this project, I created all of the interactive visualizations and website pages. The visualizations included world maps, tables, and charts all with the ability to filter based on many customizable criteria. The website pages were all connected using an intuitive flow with a navigation menu.  
+
+Through this experience, I also received project management coaching from our advisor, Raffi. My team utilized what we learned and followed a mix of Agile and Waterfall methodologies for the creation of the visualizations, the building of the site, and the formation of our pitch deck.  
+
+After 10 weeks, we presented our final product and pitch deck to directors and analysts at UCLA Alumni Affairs. We received praise for the flow of our presentation and the way we handled challenges with the data and software.
+
+

@@ -1,58 +1,79 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Personal website",
+    "title": "Sophia Angelene Santos",
     "section": "",
-    "text": "insert intro\nDOWNLOAD Resume"
-  },
-  {
-    "objectID": "projects.html#project-2",
-    "href": "projects.html#project-2",
-    "title": "Projects",
-    "section": "Project 2",
-    "text": "Project 2"
-  },
-  {
-    "objectID": "projects.html#project-3",
-    "href": "projects.html#project-3",
-    "title": "Projects",
-    "section": "Project 3",
-    "text": "Project 3"
+    "text": "Hello. My name is Sophia, and I am a 4th year undergraduate student at UCLA. I am majoring in Statistics and Data Science with a minor in Digital Humanities. Through my courses and extra cirricular projects at UCLA, I have compiled skills in data analysis, machine learning, business strategy, project management, humanities research, and more. Welcome to my academic profile!"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "Personal website",
+    "title": "Sophia Angelene Santos",
     "section": "Education",
-    "text": "Education\ninsert education"
+    "text": "Education\n\nUCLA\nB.S. Statistics and Data Science, Minor in Digital Humanities\nExpected June 2026\n\n\nCollege of the Canyons, Valencia\nDual Enrollment Coursework\n2020-2022\n\n\nCanyon High School\nHigh School Diploma\n2018-2022"
+  },
+  {
+    "objectID": "projects/harman_marketing.html",
+    "href": "projects/harman_marketing.html",
+    "title": "HARMAN International Marketing Strategy (NDA)",
+    "section": "",
+    "text": "Business Analyst and Strategist\nThrough the UCLA Epicenter, I participated in the Fall 2024 Innovation Challenge in collaboration with HARMAN International. My team of 8 was tasked with devising a data-driven solution on measuring marketing ROI for JBL’s events and partnerships. We looked into in-person events, website analytics, and social media analytics. Our solution involved targeting key objectives, providing a score system, and using past data to evaluate JBL’s performance. Furthermore, we provided recommendations on how to improve the event/partnership in the future and how to better handle their data.\nAfter pitching our solution to a diverse panel of Harman executives, we received 1st place against another team posed with a different business problem. We were praised for our ability to present technical information to a non-technical audience. We were also complimented on the overall structure of our pitch and our effective approach to tackling this challenging problem."
+  },
+  {
+    "objectID": "projects/nsdc_cobra.html",
+    "href": "projects/nsdc_cobra.html",
+    "title": "National Student Data Corps Machine Learning Project",
+    "section": "",
+    "text": "Machine Learning Engineer\nI spent a quarter learning how to webscrape images and create CNN (convolutional neural network) models. I explored internet resources and collaborated with team members as we were all working individually.\nUsing BeautifulSoup, I parsed through the HTML of a Google search page. The code then found all the elements with the img tag, since I only wanted to scrape the images as data. The code then further filtered by searching for the elements with the same class, as this inferred that the image depicts a snake. I then created a function to download the image using Selenium. Throughout this webscraping process, I used Selenium to automate the scrolling action on the webpage. This allows for my webscraper to download more than what is initially loaded onto the page.\nUsing many resources from the internet, I also created my CNN model. In this model, I coded augmentation “layers” to diversify the data. The model then took the images and classified different snake species using pooling, dropout, and dense layers.\nMy team later presented our project to the National Student Data Corps at UCLA. Since we all completed the project individually, we were well-versed in all aspects of the process. We were also able to showcase our different methods in coding the same functionalities."
+  },
+  {
+    "objectID": "projects/epicenter_website.html",
+    "href": "projects/epicenter_website.html",
+    "title": "UCLA Epicenter Website Development",
+    "section": "",
+    "text": "Website Developer\nTo start the project, our team of five began by creating a pitch deck for potential UCLA Epicenter partners. Using the business model and flow of pitch deck, we planned out the layout of the website. We designed high-fidelity prototypes of each page of the website. Afterwards, we utilized WordPress to build the website for easy navigation and interactive features.\nFollow this link to view the website we created!"
+  },
+  {
+    "objectID": "projects/dh101.html",
+    "href": "projects/dh101.html",
+    "title": "Big Fires Everywhere",
+    "section": "",
+    "text": "Data Specialist\nAs the Data Specialist of this project, I led my teammates to finding informative and credible datasets relevant to our research topic. I studied the documentations and assisted my team in understanding the data. Using Tableau, we created many prototypes of potential visualizations. We also referenced many academic sources to aid in the analysis and interpretation of our finalized visualizations.\nFollow this link to view the website we created!"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "I list my relevant coursework below. I have bolded the courses that I find most relevant to industry today.\n\nUCLA Courses\n\nPractice of Statistical Consulting (STATS 140XP,141XP)\n\nApplied Sampling (STATS C155)\n\nIntroduction to Computational Statistics with R (STATS 102A)\n\nIntroduction to Computation and Optimization for Statistics (102B)\n\nIntroduction to Monte Carlo Methods (102C)\n\nIntroduction to Data Analysis and Regression (STATS 101A)\n\nIntroduction to Design and Analysis of Experiment (101B)\n\nIntroduction to Statistical Models and Data Mining (101C)\n\nIntroduction to Probability (STATS 100A)\n\nIntroduction to Mathematical Statistics (100B)\n\nLinear Models (100C)\n\nIntroduction to Statistical Programming with R (STATS 20)\n\nIntroduction to Statistical Reasoning (STATS 10)\n\nIntroduction to Critical Cartography and Mapping Theory (DH 150)\n\nSocial Media Data Analytics (DH 120)\n\nIntroduction to Digital Humanities (DH 101)\n\nEntrepreneurship and Venture Initiation (MGMT 160)\n\nLinear Algebra (MATH 115A)\n\nIntroduction to Discrete Structures (MATH 61)\n\nDifferential Equations (MATH 33B)\n\nLinear Algebra and Applications (MATH 33A)\n\nCalculus of Several Variables (MATH 32A,B)\n\nInternet and Society (INF STD 30)\n\nInformation and Power (INF STD 10)\n\n\n\nCollege of the Canyons Courses\n\nC++ Obj. Oriented Programming (CMPSCI 236)\n\nC Programming (CMPSCI 235)\n\n\n\nCanyon High School Courses\n\nHonors App Development\n\nAP Computer Science A\n\nAP Computer Science Principles\n\nAP Statistics\n\nAP Calculus AB,BC"
+  },
+  {
+    "objectID": "projects/alumniaffairs_datatool.html",
+    "href": "projects/alumniaffairs_datatool.html",
+    "title": "UCLA Alumni Affairs Data Tool (NDA)",
+    "section": "",
+    "text": "Data Analyst\nUCLA’s Alumni Affairs had long struggled with organizing data and extracting crucial information. In order to ensure utilization of all data in an efficient manner, my team created a self-service data tool to aid in driving their business and making their efforts more impactful. The data was given to us in 5 separate CSV files. I utilized Microsoft Excel to remove duplicates and PowerQuery to merge the datasets. My team started by evaluating many visualization tools, such as Vizzu, Looker Studio, and Flourish. We ultimately decided to implement our project using ArcGIS, specifically the WebExperience feature that allows us to create websites. For this project, I created all of the interactive visualizations and website pages. The visualizations included world maps, tables, and charts all with the ability to filter based on many customizable criteria. The website pages were all connected using an intuitive flow with a navigation menu.\nThrough this experience, I also received project management coaching from our advisor, Raffi. My team utilized what we learned and followed a mix of Agile and Waterfall methodologies for the creation of the visualizations, the building of the site, and the formation of our pitch deck.\nAfter 10 weeks, we presented our final product and pitch deck to directors and analysts at UCLA Alumni Affairs. We received praise for the flow of our presentation and the way we handled challenges with the data and software."
+  },
+  {
+    "objectID": "projects/PIES_website.html",
+    "href": "projects/PIES_website.html",
+    "title": "Pilipinos in Engineering and Sciences Website Development",
+    "section": "",
+    "text": "Backend Website Developer\nThrough this experience, I learned how to use the Django REST framework to build an API for keeping track of club events. To understand the authentication flow, I used Google sign-in (OAuth2) and extracted the authentication code for the Django access token on Postman. I created the GET, POST, PATCH, and DELETE API endpoints to handle the methods of retrieving, creating, updating, and removing data on club events. I added create and update operations for each individual element to keep track of who changes event information. To ensure that only users assigned to certain roles can perform some of these actions, I implemented permission classes.\n(The site is not yet published.)"
+  },
+  {
+    "objectID": "projects/harman_consulting.html",
+    "href": "projects/harman_consulting.html",
+    "title": "HARMAN International Consulting (NDA)",
+    "section": "",
+    "text": "Business Consultant\nMy team of 5 was assigned the task of investigating the feasibility, benefits, and risks of implementing cryptocurrency for HARMAN’s payment options. This included exploring its implementation in B2B and B2C sales. We researched business case studies, market trends, competitors, and platform options. Our deliverables included seamless end-to-end prototypes of the cryptocurrency payment flow on the JBL website as well as a dashboard for HARMAN staff to track financial and operational KPIs.\nAfter 8 weeks, we presented our pitch deck, recommendations, and prototypes to HARMAN staff. We were awarded the winners of this “PitchFest.” A week later, I was chosen to present my team’s work again to HARMAN executives. We were praised for exploring the depths of our assigned problem statement."
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "HARMAN International Marketing Strategy"
-  },
-  {
-    "objectID": "projects.html#project-1",
-    "href": "projects.html#project-1",
-    "title": "Projects",
-    "section": "",
-    "text": "HARMAN International Marketing Strategy"
-  },
-  {
-    "objectID": "projects/harman_marketing.html",
-    "href": "projects/harman_marketing.html",
-    "title": "HARMAN International Marketing Strategy",
-    "section": "",
-    "text": "description"
+    "text": "Listed below are the extra curricular projects I completed at UCLA. I worked on these through clubs, fellowships, school internships, and courses. I have real world experience working with businesses, building websites, and conducting research.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPilipinos in Engineering and Sciences Website Development\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs Data Tool (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nBig Fires Everywhere\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Epicenter Website Development\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Consulting (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Marketing Strategy (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nNational Student Data Corps Machine Learning Project\n\n\n\n\n\nNo matching items"
   }
 ]

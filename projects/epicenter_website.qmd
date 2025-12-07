@@ -1,0 +1,10 @@
+---
+title: "UCLA Epicenter Website Development"
+image: images/epicenter_web.png
+---
+
+**Website Developer**
+
+To start the project, our team of five began by creating a pitch deck for potential UCLA Epicenter partners. Using the business model and flow of pitch deck, we planned out the layout of the website. We designed high-fidelity prototypes of each page of the website. Afterwards, we utilized WordPress to build the website for easy navigation and interactive features.
+
+Follow [this link](https://uclaepicenter.org/) to view the website we created!

@@ -1,0 +1,16 @@
+---
+title: "National Student Data Corps Machine Learning Project"
+image: images/nsdc_cobra.png
+---
+
+**Machine Learning Engineer**
+
+I spent a quarter learning how to webscrape images and create CNN (convolutional neural network) models. I explored internet resources and collaborated with team members as we were all working individually.  
+
+Using BeautifulSoup, I parsed through the HTML of a Google search page. The code then found all the elements with the img tag, since I only wanted to scrape the images as data. The code then further filtered by searching for the elements with the same class, as this inferred that the image depicts a snake. I then created a function to download the image using Selenium. Throughout this webscraping process, I used Selenium to automate the scrolling action on the webpage. This allows for my webscraper to download more than what is initially loaded onto the page.  
+
+Using many resources from the internet, I also created my CNN model. In this model, I coded augmentation “layers” to diversify the data. The model then took the images and classified different snake species using pooling, dropout, and dense layers.  
+
+My team later presented our project to the National Student Data Corps at UCLA. Since we all completed the project individually, we were well-versed in all aspects of the process. We were also able to showcase our different methods in coding the same functionalities.
+
+

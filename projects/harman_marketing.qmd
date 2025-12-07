@@ -1,6 +1,10 @@
 ---
-title: "HARMAN International Marketing Strategy"
-format: html
+title: "HARMAN International Marketing Strategy (NDA)"
+image:  images/harman_marketing.PNG
 ---
 
-description
+**Business Analyst and Strategist**
+
+Through the UCLA Epicenter, I participated in the Fall 2024 Innovation Challenge in collaboration with HARMAN International. My team of 8 was tasked with devising a data-driven solution on measuring marketing ROI for JBL’s events and partnerships. We looked into in-person events, website analytics, and social media analytics. Our solution involved targeting key objectives, providing a score system, and using past data to evaluate JBL’s performance. Furthermore, we provided recommendations on how to improve the event/partnership in the future and how to better handle their data.  
+
+After pitching our solution to a diverse panel of Harman executives, we received 1st place against another team posed with a different business problem. We were praised for our ability to present technical information to a non-technical audience. We were also complimented on the overall structure of our pitch and our effective approach to tackling this challenging problem.

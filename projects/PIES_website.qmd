@@ -1,0 +1,11 @@
+---
+title: "Pilipinos in Engineering and Sciences Website Development"
+image: images/pies_web.JPEG
+---
+
+**Backend Website Developer**
+
+Through this experience, I learned how to use the Django REST framework to build an API for keeping track of club events. To understand the authentication flow, I used Google sign-in (OAuth2) and extracted the authentication code for the Django access token on Postman. I created the GET, POST, PATCH, and DELETE API endpoints to handle the methods of retrieving, creating, updating, and removing data on club events. I added create and update operations for each individual element to keep track of who changes event information. To ensure that only users assigned to certain roles can perform some of these actions, I implemented permission classes.  
+(The site is not yet published.)
+
+

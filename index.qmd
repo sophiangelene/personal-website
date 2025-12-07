@@ -1,5 +1,5 @@
 ---
-title: "Personal website"
+title: "Sophia Angelene Santos"
 about:
   template: trestles
   image: pfp.JPG
@@ -14,12 +14,27 @@ about:
     - icon: inbox-fill
       text: Email
       href: mailto:sophiangelene@g.ucla.edu
+    - text: Resume
+      href: resume.pdf
 toc: false
 ---
 
-insert intro
+Hello. My name is Sophia, and I am a 4th year undergraduate student at UCLA. I am majoring in Statistics and Data Science with a minor in Digital Humanities. Through my courses and extra cirricular projects at UCLA, I have compiled skills in data analysis, machine learning, business strategy, project management, humanities research, and more. Welcome to my academic profile!
 
-DOWNLOAD [Resume](/resume.pdf)
 
 ## Education
-insert education
+#### **UCLA**  
+*B.S. Statistics and Data Science, Minor in Digital Humanities*  
+Expected June 2026
+
+#### **College of the Canyons, Valencia**  
+*Dual Enrollment Coursework*  
+2020-2022  
+
+#### **Canyon High School**  
+*High School Diploma*  
+2018-2022  
+
+
+
+

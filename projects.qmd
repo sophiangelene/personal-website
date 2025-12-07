@@ -1,12 +1,21 @@
 ---
 title: "Projects"
 toc: true
+listing: 
+  - id: project-listings
+    contents: 
+        - "/projects/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: grid
+    fields:
+      - title
+      - image
+    categories: false
 ---
 
-## Project 1
-[HARMAN International Marketing Strategy](/projects/harman_marketing.qmd)
+Listed below are the extra curricular projects I completed at UCLA. I worked on these through clubs, fellowships, school internships, and courses. I have real world experience working with businesses, building websites, and conducting research.
 
-## Project 2
-
-
-## Project 3
+:::project-listings
+:::

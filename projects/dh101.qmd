@@ -1,0 +1,10 @@
+---
+title: "Big Fires Everywhere"
+image: images/dh101.png
+---
+
+**Data Specialist**
+
+As the Data Specialist of this project, I led my teammates to finding informative and credible datasets relevant to our research topic. I studied the documentations and assisted my team in understanding the data. Using Tableau, we created many prototypes of potential visualizations. We also referenced many academic sources to aid in the analysis and interpretation of our finalized visualizations.
+
+Follow [this link](https://bigfireseverywhere.humspace.ucla.edu/) to view the website we created!
