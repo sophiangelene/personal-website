@@ -1,0 +1,12 @@
+---
+title: "Mapping Police Violence"
+image: images/dh131.png
+---
+
+**Researcher and Website Designer**
+
+I formulated my team's fourth research question, which inquires on the role of power, accountability, and representation on the justification of police violence in the media and law. To explore this question, I created an ArcGIS map featuring filtered symbology and customized interactive popups. To support the relevance of our research questions and the analyses for the fourth research question, I contributed to the literature review and annotated bibliography. 
+
+Finally, I aided my team in finalizing our project by putting together our work into the final ArcGIS StoryMap format. I chose to portray our ArcGIS maps as sidecars to make the research immersive and to frame the narrative in a way that is clear and digestible to readers.
+
+Follow [this link](https://arcg.is/04a5S1) to view the website we created!

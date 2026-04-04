@@ -1,0 +1,14 @@
+---
+title: "ArcGIS HOLC Gradings & Green Book Locations"
+format: html
+image: images/06-holc-greenbook.png
+---
+
+<iframe 
+width="700" 
+height="600" 
+allow="local-network-access; geolocation" 
+title="HOLC & the Green Book" src="https://gisucla.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=3dc87d86421246578f02d075144cc5dd&theme=light&scroll=false&center=-118.301328,34.01415&scale=288895.277144" >
+</iframe>
+
+Link to project: [https://arcg.is/KmqGf0](https://arcg.is/KmqGf0)

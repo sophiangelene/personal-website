@@ -1,0 +1,11 @@
+---
+title: "QGIS Los Angeles TRI Facilities vs. Schools"
+format: html
+image: images/07-tri-school.png
+---
+
+<iframe src="pdf/Assignment9.pdf" width="100%" height="700px"></iframe>
+
+Techniques:
+- Buffering
+- Select by Expression

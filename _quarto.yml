@@ -10,11 +10,11 @@ website:
       - href: index.qmd
         text: Home
       - href: projects.qmd
-        text: Projects
-      - href: courses.qmd
-        text: Coursework
+        text: Portfolio
+      - href: contact.qmd
+        text: Contact
   page-footer: 
-    right: "&copy; 2025, Sophia Angelene Santos"
+    right: "&copy; 2026, Sophia Angelene Santos"
 
 format:
   html:

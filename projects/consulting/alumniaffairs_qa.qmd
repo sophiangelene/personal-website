@@ -1,0 +1,14 @@
+---
+title: "UCLA Alumni Affairs QA Test Automation (NDA)"
+image: images/aa_qa.jpeg
+---
+
+**Project Manager & Solutions Engineer**
+
+As UCLA Alumni Affairs works to transfer all of their data and business processes to Salesforce CRM, my team was tasked with finding a quality assurance (QA) software. The QA software we found streamlines user experience testing by enabling automated workflows with customizable parameters to ensure that the Salesforce CRM is functioning properly.
+
+In the initial stages of this project, my team and I created a MoSCoW spreadsheet. This served as our rubric of requirements that we expect out of a quality assurance tool. Each QA tool assessed through the spreadsheet received a score based on how well it met our criteria. The spreadsheet weighted requirements differently based on whether it is a “Must Have,” “Should Have,” “Could Have,” or “Won’t Have.”
+
+To begin assessing various quality assurance platforms, my team began by conducting initial research. We searched through documentation, activated free trials for experimentation, and conversed with sales teams and company consultants. Once the software passed the initial stage by showing promising signs through research, we dug deeper into their qualifications. We assessed each QA tool against our MoSCoW spreadsheet based on information we learned through documentation and company chats. As times, we had to conduct our own experimentation using free trials of the softwares. In the end, we chose the QA software that received the highest MoSCoW score. We prototyped 5 test cases that showed the vast capabilities of the QA software for our particular Salesforce setup. 
+
+As the project manager of my team, I established deadlines to ensure that each assessment cycle provided new meaningful insights. I made decisions according to our team’s progress and the risks of QA software failing to meet our criteria. To conclude the project, my team and I presented our findings and demoed our test cases to UCLA Alumni Affairs executives, who found our work valuable to the organization’s transition.

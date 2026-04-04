@@ -1,0 +1,10 @@
+---
+title: "QGIS U.S. State Classification"
+format: html
+image: images/10-us-classification.png
+---
+
+<iframe src="pdf/Assignment5.pdf" width="100%" height="700px"></iframe>
+
+Techniques:
+- symbol classification

@@ -1,0 +1,7 @@
+---
+title: "QGIS Spain Reference Map"
+format: html
+image: images/11-spain.png
+---
+
+<iframe src="pdf/Spain.pdf" width="100%" height="700px"></iframe>

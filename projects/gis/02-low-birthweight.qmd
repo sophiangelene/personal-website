@@ -1,0 +1,9 @@
+---
+title: "ArcGIS Low Birthweight by County 2012-2024"
+format: html
+image: images/02-low-birthweight.png
+---
+
+<iframe width="700" height="600" allow="local-network-access; geolocation" title="Low Birthweight by County 2012-2024 (ss)" src="https://gisucla.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=292412b36db14472900914c0a5cda401&theme=light&scroll=false&center=-98.677339,38.335377999999984&scale=36978595.474472" ></iframe>
+
+Link to project: [https://arcg.is/zT55K0](https://arcg.is/zT55K0)

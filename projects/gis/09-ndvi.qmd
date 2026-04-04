@@ -1,0 +1,10 @@
+---
+title: "QGIS NDVI and Sea Level Rise"
+format: html
+image: images/09-ndvi.png
+---
+
+<iframe src="pdf/Assignment7.pdf" width="100%" height="700px"></iframe>
+
+Techniques:
+- raster analysis

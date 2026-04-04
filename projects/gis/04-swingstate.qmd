@@ -1,0 +1,9 @@
+---
+title: "ArcGIS Swing State Analysis"
+format: html
+image: images/04-swingstate.png
+---
+
+<iframe width="700" height="600" allow="local-network-access; geolocation" title="Swing State Analysis (ss)" src="https://gisucla.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=9df61e0e41c54e3cbe379fe9378ae1f0&theme=light&scroll=false&center=-99.637924,45.82341999999998&scale=73957190.948944" ></iframe>
+
+Link to project: [https://arcg.is/XL9Lv0](https://arcg.is/XL9Lv0)

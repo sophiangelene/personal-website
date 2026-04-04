@@ -1,0 +1,10 @@
+---
+title: "QGIS West Los Angeles Vegetation and Water Density Analysis"
+format: html
+image: images/08-westla-density.png
+---
+
+<iframe src="pdf/Assignment8.pdf" width="100%" height="700px"></iframe>
+
+Techniques:
+- Zonal Statistics

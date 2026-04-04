@@ -4,76 +4,209 @@
     "href": "index.html",
     "title": "Sophia Angelene Santos",
     "section": "",
-    "text": "Hello. My name is Sophia, and I am a 4th year undergraduate student at UCLA. I am majoring in Statistics and Data Science with a minor in Digital Humanities. Through my courses and extra cirricular projects at UCLA, I have compiled skills in data analysis, machine learning, business strategy, project management, humanities research, and more. Welcome to my academic profile!"
+    "text": "Hi there! My name is Sophia, and I am a recent graduate from UCLA. During my time in college, I studied Statistics and Data Science, Digital Humanities, and Business/Management. I believe that the thoughtful application of technology has the power to transform business practices, customer experience, and community well-being. I thrive in settings where I can collaborate with teams and work independently."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Sophia Angelene Santos",
     "section": "Education",
-    "text": "Education\n\nUCLA\nB.S. Statistics and Data Science, Minor in Digital Humanities\nExpected June 2026\n\n\nCollege of the Canyons, Valencia\nDual Enrollment Coursework\n2020-2022\n\n\nCanyon High School\nHigh School Diploma\n2018-2022"
+    "text": "Education\n\nUCLA\nB.S. Statistics and Data Science, Minor in Digital Humanities\nSeptember 2022 - March 2026\n\n\nCollege of the Canyons, Valencia\nDual Enrollment Coursework\n2020 - 2022\n\n\nCanyon High School\nHigh School Diploma\n2018 - 2022"
   },
   {
-    "objectID": "projects/harman_marketing.html",
-    "href": "projects/harman_marketing.html",
-    "title": "HARMAN International Marketing Strategy (NDA)",
+    "objectID": "projects/digital-humanities/dh131.html",
+    "href": "projects/digital-humanities/dh131.html",
+    "title": "Mapping Police Violence",
     "section": "",
-    "text": "Business Analyst and Strategist\nThrough the UCLA Epicenter, I participated in the Fall 2024 Innovation Challenge in collaboration with HARMAN International. My team of 8 was tasked with devising a data-driven solution on measuring marketing ROI for JBL’s events and partnerships. We looked into in-person events, website analytics, and social media analytics. Our solution involved targeting key objectives, providing a score system, and using past data to evaluate JBL’s performance. Furthermore, we provided recommendations on how to improve the event/partnership in the future and how to better handle their data.\nAfter pitching our solution to a diverse panel of Harman executives, we received 1st place against another team posed with a different business problem. We were praised for our ability to present technical information to a non-technical audience. We were also complimented on the overall structure of our pitch and our effective approach to tackling this challenging problem."
+    "text": "Researcher and Website Designer\nI formulated my team’s fourth research question, which inquires on the role of power, accountability, and representation on the justification of police violence in the media and law. To explore this question, I created an ArcGIS map featuring filtered symbology and customized interactive popups. To support the relevance of our research questions and the analyses for the fourth research question, I contributed to the literature review and annotated bibliography.\nFinally, I aided my team in finalizing our project by putting together our work into the final ArcGIS StoryMap format. I chose to portray our ArcGIS maps as sidecars to make the research immersive and to frame the narrative in a way that is clear and digestible to readers.\nFollow this link to view the website we created!"
   },
   {
-    "objectID": "projects/nsdc_cobra.html",
-    "href": "projects/nsdc_cobra.html",
-    "title": "National Student Data Corps Machine Learning Project",
+    "objectID": "projects/gis/06-holc-greenbook.html",
+    "href": "projects/gis/06-holc-greenbook.html",
+    "title": "ArcGIS HOLC Gradings & Green Book Locations",
     "section": "",
-    "text": "Machine Learning Engineer\nI spent a quarter learning how to webscrape images and create CNN (convolutional neural network) models. I explored internet resources and collaborated with team members as we were all working individually.\nUsing BeautifulSoup, I parsed through the HTML of a Google search page. The code then found all the elements with the img tag, since I only wanted to scrape the images as data. The code then further filtered by searching for the elements with the same class, as this inferred that the image depicts a snake. I then created a function to download the image using Selenium. Throughout this webscraping process, I used Selenium to automate the scrolling action on the webpage. This allows for my webscraper to download more than what is initially loaded onto the page.\nUsing many resources from the internet, I also created my CNN model. In this model, I coded augmentation “layers” to diversify the data. The model then took the images and classified different snake species using pooling, dropout, and dense layers.\nMy team later presented our project to the National Student Data Corps at UCLA. Since we all completed the project individually, we were well-versed in all aspects of the process. We were also able to showcase our different methods in coding the same functionalities."
+    "text": "Link to project: https://arcg.is/KmqGf0"
   },
   {
-    "objectID": "projects/epicenter_website.html",
-    "href": "projects/epicenter_website.html",
-    "title": "UCLA Epicenter Website Development",
+    "objectID": "projects/gis/05-congress-penn.html",
+    "href": "projects/gis/05-congress-penn.html",
+    "title": "ArcGIS Congressional District Analysis for Pennsylvania",
     "section": "",
-    "text": "Website Developer\nTo start the project, our team of five began by creating a pitch deck for potential UCLA Epicenter partners. Using the business model and flow of pitch deck, we planned out the layout of the website. We designed high-fidelity prototypes of each page of the website. Afterwards, we utilized WordPress to build the website for easy navigation and interactive features.\nFollow this link to view the website we created!"
+    "text": "Link to project: https://arcg.is/GC8Dn"
   },
   {
-    "objectID": "projects/dh101.html",
-    "href": "projects/dh101.html",
-    "title": "Big Fires Everywhere",
+    "objectID": "projects/gis/04-swingstate.html",
+    "href": "projects/gis/04-swingstate.html",
+    "title": "ArcGIS Swing State Analysis",
     "section": "",
-    "text": "Data Specialist\nAs the Data Specialist of this project, I led my teammates to finding informative and credible datasets relevant to our research topic. I studied the documentations and assisted my team in understanding the data. Using Tableau, we created many prototypes of potential visualizations. We also referenced many academic sources to aid in the analysis and interpretation of our finalized visualizations.\nFollow this link to view the website we created!"
+    "text": "Link to project: https://arcg.is/XL9Lv0"
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Coursework",
+    "objectID": "projects/gis/10-us-classification.html",
+    "href": "projects/gis/10-us-classification.html",
+    "title": "QGIS U.S. State Classification",
     "section": "",
-    "text": "I list my relevant coursework below. I have bolded the courses that I find most relevant to industry today.\n\nUCLA Courses\n\nPractice of Statistical Consulting (STATS 140XP,141XP)\n\nApplied Sampling (STATS C155)\n\nIntroduction to Computational Statistics with R (STATS 102A)\n\nIntroduction to Computation and Optimization for Statistics (102B)\n\nIntroduction to Monte Carlo Methods (102C)\n\nIntroduction to Data Analysis and Regression (STATS 101A)\n\nIntroduction to Design and Analysis of Experiment (101B)\n\nIntroduction to Statistical Models and Data Mining (101C)\n\nIntroduction to Probability (STATS 100A)\n\nIntroduction to Mathematical Statistics (100B)\n\nLinear Models (100C)\n\nIntroduction to Statistical Programming with R (STATS 20)\n\nIntroduction to Statistical Reasoning (STATS 10)\n\nIntroduction to Critical Cartography and Mapping Theory (DH 150)\n\nSocial Media Data Analytics (DH 120)\n\nIntroduction to Digital Humanities (DH 101)\n\nEntrepreneurship and Venture Initiation (MGMT 160)\n\nLinear Algebra (MATH 115A)\n\nIntroduction to Discrete Structures (MATH 61)\n\nDifferential Equations (MATH 33B)\n\nLinear Algebra and Applications (MATH 33A)\n\nCalculus of Several Variables (MATH 32A,B)\n\nInternet and Society (INF STD 30)\n\nInformation and Power (INF STD 10)\n\n\n\nCollege of the Canyons Courses\n\nC++ Obj. Oriented Programming (CMPSCI 236)\n\nC Programming (CMPSCI 235)\n\n\n\nCanyon High School Courses\n\nHonors App Development\n\nAP Computer Science A\n\nAP Computer Science Principles\n\nAP Statistics\n\nAP Calculus AB,BC"
+    "text": "Techniques: - symbol classification"
   },
   {
-    "objectID": "projects/alumniaffairs_datatool.html",
-    "href": "projects/alumniaffairs_datatool.html",
-    "title": "UCLA Alumni Affairs Data Tool (NDA)",
+    "objectID": "projects/gis/07-tri-school.html",
+    "href": "projects/gis/07-tri-school.html",
+    "title": "QGIS Los Angeles TRI Facilities vs. Schools",
     "section": "",
-    "text": "Data Analyst\nUCLA’s Alumni Affairs had long struggled with organizing data and extracting crucial information. In order to ensure utilization of all data in an efficient manner, my team created a self-service data tool to aid in driving their business and making their efforts more impactful. The data was given to us in 5 separate CSV files. I utilized Microsoft Excel to remove duplicates and PowerQuery to merge the datasets. My team started by evaluating many visualization tools, such as Vizzu, Looker Studio, and Flourish. We ultimately decided to implement our project using ArcGIS, specifically the WebExperience feature that allows us to create websites. For this project, I created all of the interactive visualizations and website pages. The visualizations included world maps, tables, and charts all with the ability to filter based on many customizable criteria. The website pages were all connected using an intuitive flow with a navigation menu.\nThrough this experience, I also received project management coaching from our advisor, Raffi. My team utilized what we learned and followed a mix of Agile and Waterfall methodologies for the creation of the visualizations, the building of the site, and the formation of our pitch deck.\nAfter 10 weeks, we presented our final product and pitch deck to directors and analysts at UCLA Alumni Affairs. We received praise for the flow of our presentation and the way we handled challenges with the data and software."
+    "text": "Techniques: - Buffering - Select by Expression"
   },
   {
-    "objectID": "projects/PIES_website.html",
-    "href": "projects/PIES_website.html",
+    "objectID": "projects/gis/08-westla-density.html",
+    "href": "projects/gis/08-westla-density.html",
+    "title": "QGIS West Los Angeles Vegetation and Water Density Analysis",
+    "section": "",
+    "text": "Techniques: - Zonal Statistics"
+  },
+  {
+    "objectID": "projects/web-development/PIES_website.html",
+    "href": "projects/web-development/PIES_website.html",
     "title": "Pilipinos in Engineering and Sciences Website Development",
     "section": "",
     "text": "Backend Website Developer\nThrough this experience, I learned how to use the Django REST framework to build an API for keeping track of club events. To understand the authentication flow, I used Google sign-in (OAuth2) and extracted the authentication code for the Django access token on Postman. I created the GET, POST, PATCH, and DELETE API endpoints to handle the methods of retrieving, creating, updating, and removing data on club events. I added create and update operations for each individual element to keep track of who changes event information. To ensure that only users assigned to certain roles can perform some of these actions, I implemented permission classes.\n(The site is not yet published.)"
   },
   {
-    "objectID": "projects/harman_consulting.html",
-    "href": "projects/harman_consulting.html",
+    "objectID": "projects/consulting/alumniaffairs_automation.html",
+    "href": "projects/consulting/alumniaffairs_automation.html",
+    "title": "UCLA Alumni Affairs Executive Business Reports Automation",
+    "section": "",
+    "text": "Project Manager & Solutions Engineer\nEmployees from UCLA Alumni Affairs spend about 20-30 hours each quarter to create business presentations for UCLA executives. These business presentations use data that is constantly being updated to reflect financial, demographic, and other descriptive data to reflect the state of the alumni community. In order to reduce task completion time, I led a team of 5 students to creating 2 solutions. One solution is semi-automated and functions across Microsoft platforms, such as Excel and PowerPoint. The other solution is an end-to-end automation process functioning on Google Sheets and Google Slides.\nThroughout the course of this project, I honed my skills in Microsoft Excel and Google Sheets by calculating various fields and crafting several visualizations necessary for the quarterly business presentations. Additionally, I created the end-to-end automation solution using Google Apps Script. I started by creating a Google Slides template with unique text identifiers and pre-inputted charts. Using JavaScript, I gathered the data fields from Google Sheets, processed the data using math and string functions, filled in the text fields according to identifiers, and updated the charts."
+  },
+  {
+    "objectID": "projects/consulting/harman_consulting.html",
+    "href": "projects/consulting/harman_consulting.html",
     "title": "HARMAN International Consulting (NDA)",
     "section": "",
     "text": "Business Consultant\nMy team of 5 was assigned the task of investigating the feasibility, benefits, and risks of implementing cryptocurrency for HARMAN’s payment options. This included exploring its implementation in B2B and B2C sales. We researched business case studies, market trends, competitors, and platform options. Our deliverables included seamless end-to-end prototypes of the cryptocurrency payment flow on the JBL website as well as a dashboard for HARMAN staff to track financial and operational KPIs.\nAfter 8 weeks, we presented our pitch deck, recommendations, and prototypes to HARMAN staff. We were awarded the winners of this “PitchFest.” A week later, I was chosen to present my team’s work again to HARMAN executives. We were praised for exploring the depths of our assigned problem statement."
   },
   {
+    "objectID": "projects/consulting/harman_analyst.html",
+    "href": "projects/consulting/harman_analyst.html",
+    "title": "HARMAN International Operations (NDA)",
+    "section": "",
+    "text": "Project Manager & Business Analyst\nAs the project manager, I led my team of 8 to winning PitchFest, a competition where teams are presented with different real-world business problems and are tasked to finding a solution. I served my team by assessing each member’s strengths so that they could contribute meaningfully to the project and be recognized by our mentors. Additionally, I learned to understand what the members of my team wanted to get out of the experience, so that they could learn new skills and perfect old ones. I received praise and appreciation from my team throughout our time together for my ability to manage a large team and to make everyone feel seen.\nEvery week, I delivered progress report presentations to our company mentors and advisors. In these presentations, I highlighted key accomplishments, raised challenges and concerns, and planned for next steps. Throughout the course of this project, I managed our timeline, ensuring that we were on track to completing all deliverables and milestones all while accounting for pivots and uncertainty.\nIn contribution to the work and deliverables, brainstormed and defined various quantitative and qualitative KPIs to track software license cost and usage across HARMAN’s employees worldwide. Many of these were approved by our company mentor as they provided insights from two important points of view. From an overall company-wide points of view, tracking many of KPIs would allow for HARMAN to make important business decisions about assigning licenses to employees, continuing to purchase software license, and more. From an individual employee perspective, some KPIs and parts of our deliverables allow for a deeper look into how each employee contributes to the cost and overall usage of HARMAN’s license expenditure.\nUsing our KPIs, I developed several drafts of PowerBI dashboards utilizing different charts and tables. Additionally, I used Figma Make to curate the first couple drafts of our qualitative scorecard. In the end, I helped to package up our deliverables by working on the Project Implementation Plan, which details exactly how HARMAN can begin implementing our work and recommendations."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Feel free to send me an email at sophiangelene@g.ucla.edu.\nConnect with me on LinkedIn.\nLooking forward to hearing from you!"
+  },
+  {
+    "objectID": "projects/consulting/alumniaffairs_datatool.html",
+    "href": "projects/consulting/alumniaffairs_datatool.html",
+    "title": "UCLA Alumni Affairs Data Tool (NDA)",
+    "section": "",
+    "text": "Data Analyst\nUCLA’s Alumni Affairs had long struggled with organizing data and extracting crucial information. In order to ensure utilization of all data in an efficient manner, my team created a self-service data tool to aid in driving their business and making their efforts more impactful. The data was given to us in 5 separate CSV files. I utilized Microsoft Excel to remove duplicates and PowerQuery to merge the datasets. My team started by evaluating many visualization tools, such as Vizzu, Looker Studio, and Flourish. We ultimately decided to implement our project using ArcGIS, specifically the WebExperience feature that allows us to create websites. For this project, I created all of the interactive visualizations and website pages. The visualizations included world maps, tables, and charts all with the ability to filter based on many customizable criteria. The website pages were all connected using an intuitive flow with a navigation menu.\nThrough this experience, I also received project management coaching from our advisor, Raffi. My team utilized what we learned and followed a mix of Agile and Waterfall methodologies for the creation of the visualizations, the building of the site, and the formation of our pitch deck.\nAfter 10 weeks, we presented our final product and pitch deck to directors and analysts at UCLA Alumni Affairs. We received praise for the flow of our presentation and the way we handled challenges with the data and software."
+  },
+  {
+    "objectID": "projects/consulting/alumniaffairs_qa.html",
+    "href": "projects/consulting/alumniaffairs_qa.html",
+    "title": "UCLA Alumni Affairs QA Test Automation (NDA)",
+    "section": "",
+    "text": "Project Manager & Solutions Engineer\nAs UCLA Alumni Affairs works to transfer all of their data and business processes to Salesforce CRM, my team was tasked with finding a quality assurance (QA) software. The QA software we found streamlines user experience testing by enabling automated workflows with customizable parameters to ensure that the Salesforce CRM is functioning properly.\nIn the initial stages of this project, my team and I created a MoSCoW spreadsheet. This served as our rubric of requirements that we expect out of a quality assurance tool. Each QA tool assessed through the spreadsheet received a score based on how well it met our criteria. The spreadsheet weighted requirements differently based on whether it is a “Must Have,” “Should Have,” “Could Have,” or “Won’t Have.”\nTo begin assessing various quality assurance platforms, my team began by conducting initial research. We searched through documentation, activated free trials for experimentation, and conversed with sales teams and company consultants. Once the software passed the initial stage by showing promising signs through research, we dug deeper into their qualifications. We assessed each QA tool against our MoSCoW spreadsheet based on information we learned through documentation and company chats. As times, we had to conduct our own experimentation using free trials of the softwares. In the end, we chose the QA software that received the highest MoSCoW score. We prototyped 5 test cases that showed the vast capabilities of the QA software for our particular Salesforce setup.\nAs the project manager of my team, I established deadlines to ensure that each assessment cycle provided new meaningful insights. I made decisions according to our team’s progress and the risks of QA software failing to meet our criteria. To conclude the project, my team and I presented our findings and demoed our test cases to UCLA Alumni Affairs executives, who found our work valuable to the organization’s transition."
+  },
+  {
+    "objectID": "projects/consulting/harman_marketing.html",
+    "href": "projects/consulting/harman_marketing.html",
+    "title": "HARMAN International Marketing Strategy (NDA)",
+    "section": "",
+    "text": "Business Analyst and Strategist\nThrough the UCLA Epicenter, I participated in the Fall 2024 Innovation Challenge in collaboration with HARMAN International. My team of 8 was tasked with devising a data-driven solution on measuring marketing ROI for JBL’s events and partnerships. We looked into in-person events, website analytics, and social media analytics. Our solution involved targeting key objectives, providing a score system, and using past data to evaluate JBL’s performance. Furthermore, we provided recommendations on how to improve the event/partnership in the future and how to better handle their data.\nAfter pitching our solution to a diverse panel of Harman executives, we received 1st place against another team posed with a different business problem. We were praised for our ability to present technical information to a non-technical audience. We were also complimented on the overall structure of our pitch and our effective approach to tackling this challenging problem."
+  },
+  {
+    "objectID": "projects/web-development/epicenter_website.html",
+    "href": "projects/web-development/epicenter_website.html",
+    "title": "UCLA Epicenter Website Development",
+    "section": "",
+    "text": "Website Developer\nTo start the project, our team of five began by creating a pitch deck for potential UCLA Epicenter partners. Using the business model and flow of pitch deck, we planned out the layout of the website. We designed high-fidelity prototypes of each page of the website. Afterwards, we utilized WordPress to build the website for easy navigation and interactive features.\nFollow this link to view the website we created!"
+  },
+  {
+    "objectID": "projects/machine-learning/nsdc_cobra.html",
+    "href": "projects/machine-learning/nsdc_cobra.html",
+    "title": "National Student Data Corps Machine Learning Project",
+    "section": "",
+    "text": "Machine Learning Engineer\nI spent a quarter learning how to webscrape images and create CNN (convolutional neural network) models. I explored internet resources and collaborated with team members as we were all working individually.\nUsing BeautifulSoup, I parsed through the HTML of a Google search page. The code then found all the elements with the img tag, since I only wanted to scrape the images as data. The code then further filtered by searching for the elements with the same class, as this inferred that the image depicts a snake. I then created a function to download the image using Selenium. Throughout this webscraping process, I used Selenium to automate the scrolling action on the webpage. This allows for my webscraper to download more than what is initially loaded onto the page.\nUsing many resources from the internet, I also created my CNN model. In this model, I coded augmentation “layers” to diversify the data. The model then took the images and classified different snake species using pooling, dropout, and dense layers.\nMy team later presented our project to the National Student Data Corps at UCLA. Since we all completed the project individually, we were well-versed in all aspects of the process. We were also able to showcase our different methods in coding the same functionalities."
+  },
+  {
+    "objectID": "projects/gis/09-ndvi.html",
+    "href": "projects/gis/09-ndvi.html",
+    "title": "QGIS NDVI and Sea Level Rise",
+    "section": "",
+    "text": "Techniques: - raster analysis"
+  },
+  {
+    "objectID": "projects/gis/03-prenatal.html",
+    "href": "projects/gis/03-prenatal.html",
+    "title": "ArcGIS Priority Counties for Prenatal Programs",
+    "section": "",
+    "text": "Link to project: https://arcg.is/1niqKj0"
+  },
+  {
+    "objectID": "projects/gis/01-traffic-school.html",
+    "href": "projects/gis/01-traffic-school.html",
+    "title": "ArcGIS Pasadena Traffic Collisions and School Zones",
+    "section": "",
+    "text": "Link to project: https://arcg.is/qzyim1"
+  },
+  {
+    "objectID": "projects/gis/02-low-birthweight.html",
+    "href": "projects/gis/02-low-birthweight.html",
+    "title": "ArcGIS Low Birthweight by County 2012-2024",
+    "section": "",
+    "text": "Link to project: https://arcg.is/zT55K0"
+  },
+  {
+    "objectID": "projects/digital-humanities/dh101.html",
+    "href": "projects/digital-humanities/dh101.html",
+    "title": "Big Fires Everywhere",
+    "section": "",
+    "text": "Data Specialist\nAs the Data Specialist of this project, I led my teammates to finding informative and credible datasets relevant to our research topic. I studied the documentations and assisted my team in understanding the data. Using Tableau, we created many prototypes of potential visualizations. We also referenced many academic sources to aid in the analysis and interpretation of our finalized visualizations.\nFollow this link to view the website we created!"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Projects and Experience",
     "section": "",
-    "text": "Listed below are the extra curricular projects I completed at UCLA. I worked on these through clubs, fellowships, school internships, and courses. I have real world experience working with businesses, building websites, and conducting research.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPilipinos in Engineering and Sciences Website Development\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs Data Tool (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nBig Fires Everywhere\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Epicenter Website Development\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Consulting (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Marketing Strategy (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nNational Student Data Corps Machine Learning Project\n\n\n\n\n\nNo matching items"
+    "text": "My projects and experience span various fields, including GIS, consulting, business analytics, and more. From my work, I have learned that my ultimate goal is to better the way in which people experience the world. Although I am not able to share the deliverables for some of my consulting work due to non-disclosure agreements, I am happy to connect and discuss my skills and takeaways."
+  },
+  {
+    "objectID": "projects.html#gis-and-mapping",
+    "href": "projects.html#gis-and-mapping",
+    "title": "Projects and Experience",
+    "section": "GIS and Mapping",
+    "text": "GIS and Mapping\n\n\n\n\n\n\n\n\n\n\nArcGIS Pasadena Traffic Collisions and School Zones\n\n\n\n\n\n\n\n\n\n\n\n\nArcGIS Low Birthweight by County 2012-2024\n\n\n\n\n\n\n\n\n\n\n\n\nArcGIS Priority Counties for Prenatal Programs\n\n\n\n\n\n\n\n\n\n\n\n\nArcGIS Swing State Analysis\n\n\n\n\n\n\n\n\n\n\n\n\nArcGIS Congressional District Analysis for Pennsylvania\n\n\n\n\n\n\n\n\n\n\n\n\nArcGIS HOLC Gradings & Green Book Locations\n\n\n\n\n\n\n\n\n\n\n\n\nQGIS Los Angeles TRI Facilities vs. Schools\n\n\n\n\n\n\n\n\n\n\n\n\nQGIS West Los Angeles Vegetation and Water Density Analysis\n\n\n\n\n\n\n\n\n\n\n\n\nQGIS NDVI and Sea Level Rise\n\n\n\n\n\n\n\n\n\n\n\n\nQGIS U.S. State Classification\n\n\n\n\n\n\n\n\n\n\n\n\nQGIS Spain Reference Map\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#consulting-and-business-analytics",
+    "href": "projects.html#consulting-and-business-analytics",
+    "title": "Projects and Experience",
+    "section": "Consulting and Business Analytics",
+    "text": "Consulting and Business Analytics\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs Executive Business Reports Automation\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs Data Tool (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs QA Test Automation (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Operations (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Consulting (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Marketing Strategy (NDA)\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#digital-humanities",
+    "href": "projects.html#digital-humanities",
+    "title": "Projects and Experience",
+    "section": "Digital Humanities",
+    "text": "Digital Humanities\n\n\n\n\n\n\n\n\n\n\nBig Fires Everywhere\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Police Violence\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#web-development",
+    "href": "projects.html#web-development",
+    "title": "Projects and Experience",
+    "section": "Web Development",
+    "text": "Web Development\n\n\n\n\n\n\n\n\n\n\nPilipinos in Engineering and Sciences Website Development\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Epicenter Website Development\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#machine-learning",
+    "href": "projects.html#machine-learning",
+    "title": "Projects and Experience",
+    "section": "Machine Learning",
+    "text": "Machine Learning\n\n\n\n\n\n\n\n\n\n\nNational Student Data Corps Machine Learning Project\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -1,0 +1,9 @@
+---
+title: "ArcGIS Pasadena Traffic Collisions and School Zones"
+format: html
+image: images/01-traffic-school.png
+---
+
+<iframe width="700" height="600" allow="local-network-access; geolocation" title="Pasadena Traffic Collisions (ss)" src="https://gisucla.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=368c81b19c0147d9b1a461c7fa16e368&theme=light&scroll=false&center=-118.109948,34.16233099999999&scale=72223.819286" ></iframe>
+
+Link to project: [https://arcg.is/qzyim1](https://arcg.is/qzyim1)

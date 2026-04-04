@@ -1,0 +1,14 @@
+---
+title: "HARMAN International Operations (NDA)"
+image: images/harman_analyst.jpg
+---
+
+**Project Manager & Business Analyst**
+
+As the project manager, I led my team of 8 to winning PitchFest, a competition where teams are presented with different real-world business problems and are tasked to finding a solution. I served my team by assessing each member’s strengths so that they could contribute meaningfully to the project and be recognized by our mentors. Additionally, I learned to understand what the members of my team wanted to get out of the experience, so that they could learn new skills and perfect old ones. I received praise and appreciation from my team throughout our time together for my ability to manage a large team and to make everyone feel seen.
+
+Every week, I delivered progress report presentations to our company mentors and advisors. In these presentations, I highlighted key accomplishments, raised challenges and concerns, and planned for next steps. Throughout the course of this project, I managed our timeline, ensuring that we were on track to completing all deliverables and milestones all while accounting for pivots and uncertainty. 
+
+In contribution to the work and deliverables, brainstormed and defined various quantitative and qualitative KPIs to track software license cost and usage across HARMAN’s employees worldwide. Many of these were approved by our company mentor as they provided insights from two important points of view. From an overall company-wide points of view, tracking many of KPIs would allow for HARMAN to make important business decisions about assigning licenses to employees, continuing to purchase software license, and more. From an individual employee perspective, some KPIs and parts of our deliverables allow for a deeper look into how each employee contributes to the cost and overall usage of HARMAN’s license expenditure. 
+
+Using our KPIs, I developed several drafts of PowerBI dashboards utilizing different charts and tables. Additionally, I used Figma Make to curate the first couple drafts of our qualitative scorecard. In the end, I helped to package up our deliverables by working on the Project Implementation Plan, which details exactly how HARMAN can begin implementing our work and recommendations.

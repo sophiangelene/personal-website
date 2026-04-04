@@ -1,0 +1,9 @@
+---
+title: "ArcGIS Congressional District Analysis for Pennsylvania"
+format: html
+image: images/05-congress-penn.png
+---
+
+<iframe width="700" height="600" allow="local-network-access; geolocation" title="Congressional District Analysis for Pennsylvania (ss)" src="https://gisucla.maps.arcgis.com/apps/mapviewer/index.html?configurableview=true&webmap=8150d3478f774f4db3dbe140161a8de9&theme=light&scroll=false&center=-77.71884800000001,40.817709999999984&scale=2311162.217155" ></iframe>
+
+Link to project: [https://arcg.is/GC8Dn](https://arcg.is/GC8Dn)

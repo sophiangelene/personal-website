@@ -1,21 +1,84 @@
 ---
-title: "Projects"
+title: "Projects and Experience"
 toc: true
 listing: 
-  - id: project-listings
-    contents: 
-        - "/projects/*.qmd"
+  - id: gis-listings
+    contents:
+      - "/projects/gis/*.qmd"
     sort: false
     sort-ui: false
-    filter-ui: true
+    filter-ui: false
     type: grid
     fields:
       - title
       - image
-    categories: false
+  - id: consulting-listings
+    contents:
+      - "/projects/consulting/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    type: grid
+    fields:
+      - title
+      - image
+  - id: dh-listings
+    contents:
+      - "/projects/digital-humanities/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    type: grid
+    fields:
+      - title
+      - image
+  - id: web-listings
+    contents:
+      - "/projects/web-development/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    type: grid
+    fields:
+      - title
+      - image
+  - id: ml-listings
+    contents:
+      - "/projects/machine-learning/*.qmd"
+    sort: false
+    sort-ui: false
+    filter-ui: false
+    type: grid
+    fields:
+      - title
+      - image
 ---
 
-Listed below are the extra curricular projects I completed at UCLA. I worked on these through clubs, fellowships, school internships, and courses. I have real world experience working with businesses, building websites, and conducting research.
+My projects and experience span various fields, including GIS, consulting, business analytics, and more. From my work, I have learned that my ultimate goal is to better the way in which people experience the world. Although I am not able to share the deliverables for some of my consulting work due to non-disclosure agreements, I am happy to connect and discuss my skills and takeaways.
 
-:::project-listings
+## GIS and Mapping
+
+::: {#gis-listings}
 :::
+
+## Consulting and Business Analytics
+
+::: {#consulting-listings}
+:::
+
+## Digital Humanities
+
+::: {#dh-listings}
+:::
+
+## Web Development
+
+::: {#web-listings}
+:::
+
+## Machine Learning
+
+::: {#ml-listings}
+:::
+
+

@@ -2,13 +2,28 @@
   {
     "listing": "/projects.html",
     "items": [
-      "/projects/PIES_website.html",
-      "/projects/alumniaffairs_datatool.html",
-      "/projects/dh101.html",
-      "/projects/epicenter_website.html",
-      "/projects/harman_consulting.html",
-      "/projects/harman_marketing.html",
-      "/projects/nsdc_cobra.html"
+      "/projects/gis/01-traffic-school.html",
+      "/projects/gis/02-low-birthweight.html",
+      "/projects/gis/03-prenatal.html",
+      "/projects/gis/04-swingstate.html",
+      "/projects/gis/05-congress-penn.html",
+      "/projects/gis/06-holc-greenbook.html",
+      "/projects/gis/07-tri-school.html",
+      "/projects/gis/08-westla-density.html",
+      "/projects/gis/09-ndvi.html",
+      "/projects/gis/10-us-classification.html",
+      "/projects/gis/11-spain.html",
+      "/projects/consulting/alumniaffairs_automation.html",
+      "/projects/consulting/alumniaffairs_datatool.html",
+      "/projects/consulting/alumniaffairs_qa.html",
+      "/projects/consulting/harman_analyst.html",
+      "/projects/consulting/harman_consulting.html",
+      "/projects/consulting/harman_marketing.html",
+      "/projects/digital-humanities/dh101.html",
+      "/projects/digital-humanities/dh131.html",
+      "/projects/web-development/PIES_website.html",
+      "/projects/web-development/epicenter_website.html",
+      "/projects/machine-learning/nsdc_cobra.html"
     ]
   }
 ]

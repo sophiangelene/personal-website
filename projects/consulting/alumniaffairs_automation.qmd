@@ -1,0 +1,10 @@
+---
+title: "UCLA Alumni Affairs Executive Business Reports Automation"
+image: images/aa_auto.jpeg
+---
+
+**Project Manager & Solutions Engineer**
+
+Employees from UCLA Alumni Affairs spend about 20-30 hours each quarter to create business presentations for UCLA executives. These business presentations use data that is constantly being updated to reflect financial, demographic, and other descriptive data to reflect the state of the alumni community. In order to reduce task completion time, I led a team of 5 students to creating 2 solutions. One solution is semi-automated and functions across Microsoft platforms, such as Excel and PowerPoint. The other solution is an end-to-end automation process functioning on Google Sheets and Google Slides.
+
+Throughout the course of this project, I honed my skills in Microsoft Excel and Google Sheets by calculating various fields and crafting several visualizations necessary for the quarterly business presentations. Additionally, I created the end-to-end automation solution using Google Apps Script. I started by creating a Google Slides template with unique text identifiers and pre-inputted charts. Using JavaScript, I gathered the data fields from Google Sheets, processed the data using math and string functions, filled in the text fields according to identifiers, and updated the charts.

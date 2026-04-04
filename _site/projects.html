@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Projects – Sophia Angelene Santos</title>
+<title>Projects and Experience – Sophia Angelene Santos</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-project-listings .list');
+    const listingTargetEl = window.document.querySelector('#listing-gis-listings .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -86,7 +86,119 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-project-listings'] = new List('listing-project-listings', options);
+    window['quarto-listings']['listing-gis-listings'] = new List('listing-gis-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-consulting-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-consulting-listings'] = new List('listing-consulting-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-dh-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-dh-listings'] = new List('listing-dh-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-web-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-web-listings'] = new List('listing-web-listings', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-ml-listings .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-ml-listings'] = new List('listing-ml-listings', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -156,11 +268,11 @@ window.Quarto = {
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./projects.html" aria-current="page"> 
-<span class="menu-text">Projects</span></a>
+<span class="menu-text">Portfolio</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./courses.html"> 
-<span class="menu-text">Coursework</span></a>
+    <a class="nav-link" href="./contact.html"> 
+<span class="menu-text">Contact</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -173,15 +285,25 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#gis-and-mapping" id="toc-gis-and-mapping" class="nav-link active" data-scroll-target="#gis-and-mapping">GIS and Mapping</a></li>
+  <li><a href="#consulting-and-business-analytics" id="toc-consulting-and-business-analytics" class="nav-link" data-scroll-target="#consulting-and-business-analytics">Consulting and Business Analytics</a></li>
+  <li><a href="#digital-humanities" id="toc-digital-humanities" class="nav-link" data-scroll-target="#digital-humanities">Digital Humanities</a></li>
+  <li><a href="#web-development" id="toc-web-development" class="nav-link" data-scroll-target="#web-development">Web Development</a></li>
+  <li><a href="#machine-learning" id="toc-machine-learning" class="nav-link" data-scroll-target="#machine-learning">Machine Learning</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Projects</h1>
+<h1 class="title">Projects and Experience</h1>
 </div>
 
 
@@ -198,40 +320,180 @@ window.Quarto = {
 </header>
 
 
-<p>Listed below are the extra curricular projects I completed at UCLA. I worked on these through clubs, fellowships, school internships, and courses. I have real world experience working with businesses, building websites, and conducting research.</p>
-<div class="project-listings">
-
-</div>
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-project-listings">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
+<p>My projects and experience span various fields, including GIS, consulting, business analytics, and more. From my work, I have learned that my ultimate goal is to better the way in which people experience the world. Although I am not able to share the deliverables for some of my consulting work due to non-disclosure agreements, I am happy to connect and discuss my skills and takeaways.</p>
+<section id="gis-and-mapping" class="level2">
+<h2 class="anchored" data-anchor-id="gis-and-mapping">GIS and Mapping</h2>
+<div id="listing-gis-listings" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765071351921" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
-<a href="./projects/PIES_website.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1775255366288" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./projects/gis/01-traffic-school.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/images/pies_web.JPEG" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/gis/images/01-traffic-school.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Pilipinos in Engineering and Sciences Website Development
+ArcGIS Pasadena Traffic Collisions and School Zones
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1775255451294" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<a href="./projects/gis/02-low-birthweight.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/02-low-birthweight.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ArcGIS Low Birthweight by County 2012-2024
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1775255463394" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<a href="./projects/gis/03-prenatal.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/03-prenatal.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ArcGIS Priority Counties for Prenatal Programs
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1775255477187" data-listing-reading-time-sort="1" data-listing-word-count-sort="14">
+<a href="./projects/gis/04-swingstate.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/04-swingstate.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ArcGIS Swing State Analysis
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1775255487834" data-listing-reading-time-sort="1" data-listing-word-count-sort="16">
+<a href="./projects/gis/05-congress-penn.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/05-congress-penn.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ArcGIS Congressional District Analysis for Pennsylvania
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1775255499086" data-listing-reading-time-sort="1" data-listing-word-count-sort="15">
+<a href="./projects/gis/06-holc-greenbook.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/06-holc-greenbook.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+ArcGIS HOLC Gradings &amp; Green Book Locations
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1775252746206" data-listing-reading-time-sort="1" data-listing-word-count-sort="8">
+<a href="./projects/gis/07-tri-school.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/07-tri-school.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+QGIS Los Angeles TRI Facilities vs.&nbsp;Schools
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1775252880112" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<a href="./projects/gis/08-westla-density.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/08-westla-density.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+QGIS West Los Angeles Vegetation and Water Density Analysis
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1775253131636" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<a href="./projects/gis/09-ndvi.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/09-ndvi.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+QGIS NDVI and Sea Level Rise
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1775253358110" data-listing-reading-time-sort="1" data-listing-word-count-sort="6">
+<a href="./projects/gis/10-us-classification.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/10-us-classification.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+QGIS U.S. State Classification
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1775253375524" data-listing-reading-time-sort="1" data-listing-word-count-sort="4">
+<a href="./projects/gis/11-spain.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/gis/images/11-spain.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+QGIS Spain Reference Map
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="consulting-and-business-analytics" class="level2">
+<h2 class="anchored" data-anchor-id="consulting-and-business-analytics">Consulting and Business Analytics</h2>
+<div id="listing-consulting-listings" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1775190306961" data-listing-reading-time-sort="1" data-listing-word-count-sort="180">
+<a href="./projects/consulting/alumniaffairs_automation.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/consulting/images/aa_auto.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UCLA Alumni Affairs Executive Business Reports Automation
 </h5>
 </div>
 </div></a>
 </div>
 <div class="g-col-1" data-index="1" data-listing-file-modified-sort="1765071669263" data-listing-reading-time-sort="2" data-listing-word-count-sort="236">
-<a href="./projects/alumniaffairs_datatool.html" class="quarto-grid-link">
+<a href="./projects/consulting/alumniaffairs_datatool.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/images/aa_data.JPEG" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/consulting/images/aa_data.JPEG" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -240,37 +502,37 @@ UCLA Alumni Affairs Data Tool (NDA)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1765071870907" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<a href="./projects/dh101.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1775190552544" data-listing-reading-time-sort="2" data-listing-word-count-sort="310">
+<a href="./projects/consulting/alumniaffairs_qa.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/images/dh101.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/consulting/images/aa_qa.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Big Fires Everywhere
+UCLA Alumni Affairs QA Test Automation (NDA)
 </h5>
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1765071381656" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
-<a href="./projects/epicenter_website.html" class="quarto-grid-link">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1775190087572" data-listing-reading-time-sort="2" data-listing-word-count-sort="339">
+<a href="./projects/consulting/harman_analyst.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/images/epicenter_web.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/consulting/images/harman_analyst.jpg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-UCLA Epicenter Website Development
+HARMAN International Operations (NDA)
 </h5>
 </div>
 </div></a>
 </div>
 <div class="g-col-1" data-index="4" data-listing-file-modified-sort="1765071638579" data-listing-reading-time-sort="1" data-listing-word-count-sort="123">
-<a href="./projects/harman_consulting.html" class="quarto-grid-link">
+<a href="./projects/consulting/harman_consulting.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/images/harman_consulting.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/consulting/images/harman_consulting.jpeg" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -280,10 +542,10 @@ HARMAN International Consulting (NDA)
 </div></a>
 </div>
 <div class="g-col-1" data-index="5" data-listing-file-modified-sort="1765071624952" data-listing-reading-time-sort="1" data-listing-word-count-sort="148">
-<a href="./projects/harman_marketing.html" class="quarto-grid-link">
+<a href="./projects/consulting/harman_marketing.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/images/harman_marketing.PNG" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/consulting/images/harman_marketing.PNG" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -292,11 +554,87 @@ HARMAN International Marketing Strategy (NDA)
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1765071612075" data-listing-reading-time-sort="2" data-listing-word-count-sort="218">
-<a href="./projects/nsdc_cobra.html" class="quarto-grid-link">
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="digital-humanities" class="level2">
+<h2 class="anchored" data-anchor-id="digital-humanities">Digital Humanities</h2>
+<div id="listing-dh-listings" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765071870907" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<a href="./projects/digital-humanities/dh101.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
-<img loading="lazy" src="./projects/images/nsdc_cobra.png" class="thumbnail-image card-img" style="height: 150px;">
+<img loading="lazy" src="./projects/digital-humanities/images/dh101.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Big Fires Everywhere
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1775333741543" data-listing-reading-time-sort="1" data-listing-word-count-sort="129">
+<a href="./projects/digital-humanities/dh131.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/digital-humanities/images/dh131.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mapping Police Violence
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="web-development" class="level2">
+<h2 class="anchored" data-anchor-id="web-development">Web Development</h2>
+<div id="listing-web-listings" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765071351921" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<a href="./projects/web-development/PIES_website.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/web-development/images/pies_web.JPEG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Pilipinos in Engineering and Sciences Website Development
+</h5>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1765071381656" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<a href="./projects/web-development/epicenter_website.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/web-development/images/epicenter_web.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+UCLA Epicenter Website Development
+</h5>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="machine-learning" class="level2">
+<h2 class="anchored" data-anchor-id="machine-learning">Machine Learning</h2>
+<div id="listing-ml-listings" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1765071612075" data-listing-reading-time-sort="2" data-listing-word-count-sort="218">
+<a href="./projects/machine-learning/nsdc_cobra.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./projects/machine-learning/images/nsdc_cobra.png" class="thumbnail-image card-img" style="height: 150px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
@@ -307,7 +645,13 @@ National Student Data Corps Machine Learning Project
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
@@ -718,7 +1062,7 @@ National Student Data Corps Machine Learning Project
       &nbsp;
     </div>
     <div class="nav-footer-right">
-<p>© 2025, Sophia Angelene Santos</p>
+<p>© 2026, Sophia Angelene Santos</p>
 </div>
   </div>
 </footer>
