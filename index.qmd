@@ -9,8 +9,6 @@ about:
     - icon: inbox-fill
       text: Email
       href: mailto:sophiangelene@g.ucla.edu
-    - text: Resume
-      href: resume.pdf
 toc: false
 ---
 
