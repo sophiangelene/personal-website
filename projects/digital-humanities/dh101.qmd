@@ -1,5 +1,5 @@
 ---
-title: "Big Fires Everywhere"
+title: "California Wildfires"
 image: images/dh101.png
 ---
 

@@ -54,16 +54,17 @@ listing:
       - image
 ---
 
-My projects and experience span various fields, including GIS, consulting, business analytics, and more. From my work, I have learned that my ultimate goal is to better the way in which people experience the world. Although I am not able to share the deliverables for some of my consulting work due to non-disclosure agreements, I am happy to connect and discuss my skills and takeaways.
+My projects and experience span various fields, including business analytics, consulting, GIS, and more. From my work, I have learned that my ultimate goal is to better the way in which people experience the world. Although I am not able to share the deliverables for some of my consulting work due to non-disclosure agreements, I am happy to connect and discuss my skills and takeaways.
+
+## Business Analytics and Consulting
+
+::: {#consulting-listings}
+:::
+
 
 ## GIS and Mapping
 
 ::: {#gis-listings}
-:::
-
-## Consulting and Business Analytics
-
-::: {#consulting-listings}
 :::
 
 ## Digital Humanities

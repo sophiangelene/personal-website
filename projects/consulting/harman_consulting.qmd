@@ -5,7 +5,7 @@ image: images/harman_consulting.jpeg
 
 **Business Consultant**
 
-My team of 5 was assigned the task of investigating the feasibility, benefits, and risks of implementing cryptocurrency for HARMAN’s payment options. This included exploring its implementation in B2B and B2C sales. We researched business case studies, market trends, competitors, and platform options. Our deliverables included seamless end-to-end prototypes of the cryptocurrency payment flow on the JBL website as well as a dashboard for HARMAN staff to track financial and operational KPIs.  
+My team of 5 was assigned the task of investigating the feasibility, benefits, and risks of implementing a new financial strategy, aiding in B2B and B2C market expansion. We researched business case studies, market trends, competitors, and platform options. Our deliverables include seamless end-to-end prototypes to model user flows and mockups of techniques to track financial and operational KPIs.
 
 After 8 weeks, we presented our pitch deck, recommendations, and prototypes to HARMAN staff. We were awarded the winners of this “PitchFest.” A week later, I was chosen to present my team’s work again to HARMAN executives. We were praised for exploring the depths of our assigned problem statement.
 

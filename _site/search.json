@@ -72,7 +72,7 @@
   {
     "objectID": "projects/consulting/alumniaffairs_automation.html",
     "href": "projects/consulting/alumniaffairs_automation.html",
-    "title": "UCLA Alumni Affairs Executive Business Reports Automation",
+    "title": "UCLA Alumni Affairs Workflow Automation",
     "section": "",
     "text": "Project Manager & Solutions Engineer\nEmployees from UCLA Alumni Affairs spend about 20-30 hours each quarter to create business presentations for UCLA executives. These business presentations use data that is constantly being updated to reflect financial, demographic, and other descriptive data to reflect the state of the alumni community. In order to reduce task completion time, I led a team of 5 students to creating 2 solutions. One solution is semi-automated and functions across Microsoft platforms, such as Excel and PowerPoint. The other solution is an end-to-end automation process functioning on Google Sheets and Google Slides.\nThroughout the course of this project, I honed my skills in Microsoft Excel and Google Sheets by calculating various fields and crafting several visualizations necessary for the quarterly business presentations. Additionally, I created the end-to-end automation solution using Google Apps Script. I started by creating a Google Slides template with unique text identifiers and pre-inputted charts. Using JavaScript, I gathered the data fields from Google Sheets, processed the data using math and string functions, filled in the text fields according to identifiers, and updated the charts."
   },
@@ -81,14 +81,14 @@
     "href": "projects/consulting/harman_consulting.html",
     "title": "HARMAN International Consulting (NDA)",
     "section": "",
-    "text": "Business Consultant\nMy team of 5 was assigned the task of investigating the feasibility, benefits, and risks of implementing cryptocurrency for HARMAN’s payment options. This included exploring its implementation in B2B and B2C sales. We researched business case studies, market trends, competitors, and platform options. Our deliverables included seamless end-to-end prototypes of the cryptocurrency payment flow on the JBL website as well as a dashboard for HARMAN staff to track financial and operational KPIs.\nAfter 8 weeks, we presented our pitch deck, recommendations, and prototypes to HARMAN staff. We were awarded the winners of this “PitchFest.” A week later, I was chosen to present my team’s work again to HARMAN executives. We were praised for exploring the depths of our assigned problem statement."
+    "text": "Business Consultant\nMy team of 5 was assigned the task of investigating the feasibility, benefits, and risks of implementing a new financial strategy, aiding in B2B and B2C market expansion. We researched business case studies, market trends, competitors, and platform options. Our deliverables include seamless end-to-end prototypes to model user flows and mockups of techniques to track financial and operational KPIs.\nAfter 8 weeks, we presented our pitch deck, recommendations, and prototypes to HARMAN staff. We were awarded the winners of this “PitchFest.” A week later, I was chosen to present my team’s work again to HARMAN executives. We were praised for exploring the depths of our assigned problem statement."
   },
   {
     "objectID": "projects/consulting/harman_analyst.html",
     "href": "projects/consulting/harman_analyst.html",
     "title": "HARMAN International Operations (NDA)",
     "section": "",
-    "text": "Project Manager & Business Analyst\nAs the project manager, I led my team of 8 to winning PitchFest, a competition where teams are presented with different real-world business problems and are tasked to finding a solution. I served my team by assessing each member’s strengths so that they could contribute meaningfully to the project and be recognized by our mentors. Additionally, I learned to understand what the members of my team wanted to get out of the experience, so that they could learn new skills and perfect old ones. I received praise and appreciation from my team throughout our time together for my ability to manage a large team and to make everyone feel seen.\nEvery week, I delivered progress report presentations to our company mentors and advisors. In these presentations, I highlighted key accomplishments, raised challenges and concerns, and planned for next steps. Throughout the course of this project, I managed our timeline, ensuring that we were on track to completing all deliverables and milestones all while accounting for pivots and uncertainty.\nIn contribution to the work and deliverables, brainstormed and defined various quantitative and qualitative KPIs to track software license cost and usage across HARMAN’s employees worldwide. Many of these were approved by our company mentor as they provided insights from two important points of view. From an overall company-wide points of view, tracking many of KPIs would allow for HARMAN to make important business decisions about assigning licenses to employees, continuing to purchase software license, and more. From an individual employee perspective, some KPIs and parts of our deliverables allow for a deeper look into how each employee contributes to the cost and overall usage of HARMAN’s license expenditure.\nUsing our KPIs, I developed several drafts of PowerBI dashboards utilizing different charts and tables. Additionally, I used Figma Make to curate the first couple drafts of our qualitative scorecard. In the end, I helped to package up our deliverables by working on the Project Implementation Plan, which details exactly how HARMAN can begin implementing our work and recommendations."
+    "text": "Project Manager & Business Analyst\nAs the project manager, I led my team of 8 to winning PitchFest, a competition where teams are presented with different real-world business problems and are tasked to finding a solution. I served my team by assessing each member’s strengths so that they could contribute meaningfully to the project and be recognized by our mentors. Additionally, I learned to understand what the members of my team wanted to get out of the experience, so that they could learn new skills and perfect old ones. I received praise and appreciation from my team throughout our time together for my ability to manage a large team and to make everyone feel seen.\nEvery week, I delivered progress report presentations to our company mentors and advisors. In these presentations, I highlighted key accomplishments, raised challenges and concerns, and planned for next steps. Throughout the course of this project, I managed our timeline, ensuring that we were on track to completing all deliverables and milestones all while accounting for pivots and uncertainty.\nIn contribution to the work and deliverables, I brainstormed and defined various quantitative and qualitative KPIs to track software license cost and usage across HARMAN’s employees worldwide. Many of these were approved by our company mentor as they found the insights valuable. Using our KPIs, I aided in the development of solutions in PowerBI and Figma Make. In the end, I helped to package up our deliverables by working on our pitch and Project Implementation Plan, which details exactly how HARMAN can begin implementing our work and recommendations."
   },
   {
     "objectID": "contact.html",
@@ -116,7 +116,7 @@
     "href": "projects/consulting/harman_marketing.html",
     "title": "HARMAN International Marketing Strategy (NDA)",
     "section": "",
-    "text": "Business Analyst and Strategist\nThrough the UCLA Epicenter, I participated in the Fall 2024 Innovation Challenge in collaboration with HARMAN International. My team of 8 was tasked with devising a data-driven solution on measuring marketing ROI for JBL’s events and partnerships. We looked into in-person events, website analytics, and social media analytics. Our solution involved targeting key objectives, providing a score system, and using past data to evaluate JBL’s performance. Furthermore, we provided recommendations on how to improve the event/partnership in the future and how to better handle their data.\nAfter pitching our solution to a diverse panel of Harman executives, we received 1st place against another team posed with a different business problem. We were praised for our ability to present technical information to a non-technical audience. We were also complimented on the overall structure of our pitch and our effective approach to tackling this challenging problem."
+    "text": "Business Analyst and Strategist\nThrough the UCLA Epicenter, I participated in the Fall 2024 Innovation Challenge in collaboration with HARMAN International. My team of 8 was tasked with devising a data-driven solution on measuring marketing ROI for JBL’s events and partnerships. We looked into in-person events, website metrics, social media engagement, and more. To develop our solution, we targeted KPIs and proposed a new system that thoroughly assesses the depths of each marketing move. Furthermore, we provided recommendations on how to improve events and partnerships in the future and how the company can better handle their data.\nAfter pitching our solution to a diverse panel of Harman executives, we received 1st place against another team posed with a different business problem. We were praised for our ability to present technical information to a non-technical audience. We were also complimented on the overall structure of our pitch and our effective approach to tackling this challenging problem."
   },
   {
     "objectID": "projects/web-development/epicenter_website.html",
@@ -163,7 +163,7 @@
   {
     "objectID": "projects/digital-humanities/dh101.html",
     "href": "projects/digital-humanities/dh101.html",
-    "title": "Big Fires Everywhere",
+    "title": "California Wildfires",
     "section": "",
     "text": "Data Specialist\nAs the Data Specialist of this project, I led my teammates to finding informative and credible datasets relevant to our research topic. I studied the documentations and assisted my team in understanding the data. Using Tableau, we created many prototypes of potential visualizations. We also referenced many academic sources to aid in the analysis and interpretation of our finalized visualizations.\nFollow this link to view the website we created!"
   },
@@ -172,7 +172,7 @@
     "href": "projects.html",
     "title": "Projects and Experience",
     "section": "",
-    "text": "My projects and experience span various fields, including GIS, consulting, business analytics, and more. From my work, I have learned that my ultimate goal is to better the way in which people experience the world. Although I am not able to share the deliverables for some of my consulting work due to non-disclosure agreements, I am happy to connect and discuss my skills and takeaways."
+    "text": "My projects and experience span various fields, including business analytics, consulting, GIS, and more. From my work, I have learned that my ultimate goal is to better the way in which people experience the world. Although I am not able to share the deliverables for some of my consulting work due to non-disclosure agreements, I am happy to connect and discuss my skills and takeaways."
   },
   {
     "objectID": "projects.html#gis-and-mapping",
@@ -193,7 +193,7 @@
     "href": "projects.html#digital-humanities",
     "title": "Projects and Experience",
     "section": "Digital Humanities",
-    "text": "Digital Humanities\n\n\n\n\n\n\n\n\n\n\nBig Fires Everywhere\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Police Violence\n\n\n\n\n\nNo matching items"
+    "text": "Digital Humanities\n\n\n\n\n\n\n\n\n\n\nCalifornia Wildfires\n\n\n\n\n\n\n\n\n\n\n\n\nMapping Police Violence\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html#web-development",
@@ -208,5 +208,12 @@
     "title": "Projects and Experience",
     "section": "Machine Learning",
     "text": "Machine Learning\n\n\n\n\n\n\n\n\n\n\nNational Student Data Corps Machine Learning Project\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#business-analytics-and-consulting",
+    "href": "projects.html#business-analytics-and-consulting",
+    "title": "Projects and Experience",
+    "section": "Business Analytics and Consulting",
+    "text": "Business Analytics and Consulting\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs Workflow Automation\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs Data Tool (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nUCLA Alumni Affairs QA Test Automation (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Operations (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Consulting (NDA)\n\n\n\n\n\n\n\n\n\n\n\n\nHARMAN International Marketing Strategy (NDA)\n\n\n\n\n\nNo matching items"
   }
 ]

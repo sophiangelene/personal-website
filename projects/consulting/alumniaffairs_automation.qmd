@@ -1,5 +1,5 @@
 ---
-title: "UCLA Alumni Affairs Executive Business Reports Automation"
+title: "UCLA Alumni Affairs Workflow Automation"
 image: images/aa_auto.jpeg
 ---
 
